@@ -47,7 +47,7 @@ $("#exampleFormControlTextarea1").keyup(function (e) {
 console.log($(".about_tittle").text().length);
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // write the event day
-let eventDate = new Date(" FEB 10 2022 0:00:00");
+let eventDate = new Date(" FEB 10 2023 0:00:00");
 eventDate = Date.parse(eventDate);
 
 (function () {
